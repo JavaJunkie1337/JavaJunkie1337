@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @JavaJunkie1337
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on any type of project with Java
+- 📫 How to reach me javajunkie1337@gmail.com
+- ⚡ Fun fact: I hate C# (because its a microsoft copy of Java)
